@@ -438,7 +438,7 @@ BOOL CDlgCardReviewer::Findcard(unsigned long *pSnr)
 
 void CDlgCardReviewer::ShowCardInfo(void)
 {
-	return;
+	//return;
 }
 
 
