@@ -40,6 +40,9 @@
     <None Include="res\Toolbar.bmp">
       <Filter>资源文件</Filter>
     </None>
+    <None Include="test.txt">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="foodTrack.h">

@@ -108,6 +108,7 @@
     <None Include="res\foodTrackDoc.ico" />
     <None Include="res\Toolbar.bmp" />
     <None Include="res\Toolbar256.bmp" />
+    <None Include="test.txt" />
     <None Include="UserImages.bmp" />
   </ItemGroup>
   <ItemGroup>

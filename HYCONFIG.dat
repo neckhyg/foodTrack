@@ -1,0 +1,26 @@
+[NetWork]
+DBServer=yxyscj
+
+ServerName=127.0.0.1
+
+ServerIP=127.0.0.1
+
+ServerPort=7781
+
+DBN=automis
+
+UID=sa
+
+PWD=123456
+
+;表示使用的数据库驱动程序的类型 0 -- MS Access 97 Database ::: 1 -- SQL Server 
+DBDriver=1
+PSW=123456
+
+[MsJet]
+;================================================================
+;说明:改为4.0可以支持Access2000数据库
+Provider=Microsoft.Jet.OLEDB.4.0
+;Provider=Microsoft.Jet.OLEDB.4.0   ;//For Access 97
+;================================================================
+
