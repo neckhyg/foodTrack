@@ -263,8 +263,8 @@ BOOLEAN CfoodTrackApp::InitializeDataBase(void)
     int nPos;
 	nPos=m_sAppPath.ReverseFind ('\\');
 	m_sAppPath=m_sAppPath.Left(nPos);
-	nPos=m_sAppPath.ReverseFind ('\\');
-	m_sAppPath=m_sAppPath.Left(nPos);
+//	nPos=m_sAppPath.ReverseFind ('\\');
+//	m_sAppPath=m_sAppPath.Left(nPos);
 	
 
 	m_sSystemSetupFile = m_sAppPath + "\\HyConfig.dat";
